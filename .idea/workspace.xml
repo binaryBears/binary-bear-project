@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3d59bfb-2290-4523-a967-2afaa40fdb05" name="Changes" comment="add storybook">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/ui/button/button.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/ui/button/button.stories.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/ui/button/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/_boilerplate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/ui/button/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/ui/button/button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +44,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;component/#1&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nick_/OneDrive/Документы/GitHub/binary-bear-project&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;development&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/bears-intership/main project/binary-bear-project&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -66,8 +56,9 @@
     &quot;node.js.selected.package.stylelint&quot;: &quot;C:\\Users\\nick_\\OneDrive\\Документы\\GitHub\\binary-bear-project\\node_modules\\stylelint&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
+    &quot;npm.Next.js: server-side.executor&quot;: &quot;Run&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\nick_\\OneDrive\\Документы\\GitHub\\binary-bear-project\\node_modules\\typescript\\lib&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\bears-intership\\main project\\binary-bear-project\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -76,10 +67,25 @@
       <recent name="C:\Users\nick_\OneDrive\Документы\GitHub\binary-bear-project\src\component\ui\button" />
     </key>
   </component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
       </set>
     </attachedChunks>
   </component>
@@ -97,6 +103,8 @@
       <workItem from="1766239354287" duration="3219000" />
       <workItem from="1766313751866" duration="295000" />
       <workItem from="1766342029403" duration="71000" />
+      <workItem from="1770235357601" duration="2669000" />
+      <workItem from="1770286458422" duration="1421000" />
     </task>
     <task id="LOCAL-00001" summary="add file">
       <option name="closed" value="true" />
