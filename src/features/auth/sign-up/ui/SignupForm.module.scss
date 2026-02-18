@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 100%;
+}
+
+.checkBox {
+margin-left: 6px;
+}
+
+.agreementText {
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-regular);
+  line-height: var(--line-height-s);
+  color: var(--color-light-100);
+
+  & .link {
+    color: var(--color-primary-300);
+  }
+
+}

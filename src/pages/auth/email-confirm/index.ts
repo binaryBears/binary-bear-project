@@ -1,0 +1,1 @@
+export {EmailConfirmPage} from './ui/EmailConfirmPage'

@@ -1,0 +1,17 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 100%;
+}
+
+.forgotPasswordLink {
+  margin-top: 12px;
+  margin-left: auto;
+
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  line-height: var(--line-height-m);
+  color: var(--color-light-900);
+  text-decoration: none;
+}
