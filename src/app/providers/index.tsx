@@ -10,10 +10,11 @@ type ProvidersProps = {
 
 export function Providers({ children }: ProvidersProps) {
   return (
-    <AuthProvider>
-      <StoreProvider>
+       <StoreProvider>
+        <AuthProvider>
         {children}
+        </AuthProvider>
       </StoreProvider>
-    </AuthProvider>
+
   );
 }
